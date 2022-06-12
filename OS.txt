@@ -1,4 +1,3 @@
 linux
 windows
-unix
 mac os
