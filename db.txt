@@ -1,2 +1,6 @@
 sql
+<<<<<<< HEAD
 my sql
+=======
+my sql
+>>>>>>> newfeature
